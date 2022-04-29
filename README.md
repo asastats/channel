@@ -2,7 +2,7 @@
 
 An issue for every bug report and a feature request should be created in the [issues](https://github.com/asastats/channel/issues).
 
-Every [ASA Stats discussion](https://github.com/asastats/docs/blob/main/code-of-conduct.md#asa-stats-discussions) besides [DAO discussions](https://github.com/asastats/dao-discussion/discussions) should take place in [discussions](https://github.com/asastats/channel/discussions).
+Every [ASA Stats discussion](https://github.com/asastats/channel/wiki/Discussions) besides [DAO discussions](https://github.com/asastats/dao-discussion/discussions) should take place in [discussions](https://github.com/asastats/channel/discussions).
 
 A collaborated work on the official ASA Stats documents should take place in the [wiki](https://github.com/asastats/channel/wiki).
 
